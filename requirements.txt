@@ -1,0 +1,6 @@
+basemap==1.2.0
+numpy==1.19.5
+matplotlib==3.2.2
+geopy==2.2.0
+pycep_correios==4.0.0
+pandas==1.0.5
